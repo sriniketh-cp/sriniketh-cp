@@ -104,7 +104,7 @@ I'm always interested in collaborating on innovative projects or discussing tech
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriniketh-sudheendra-9567441a6)
 - 🌐 [Portfolio](https://3d-portfoliosr.netlify.app/)
-- 📧 [srinikethps@gmail.com](mailto:srinikethps@gmail.com)
+- 📧 [sriniketh.sudheendra@gmail.com](mailto:sriniketh.sudheendra@gmail.com)
 - 📍 Bangalore, Karnataka, India
 
 ---
