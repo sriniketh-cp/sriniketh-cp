@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3d--portfoliosr. netlify.app-blue?style=flat&logo=google-chrome)](https://3d-portfoliosr.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-sriniketh--sudheendra-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sriniketh-sudheendra-9567441a6)
-[![Email](https://img.shields.io/badge/-srinikethps@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:srinikethps@gmail. com)
+[![Email](https://img.shields.io/badge/-sriniketh.sudheendra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sriniketh.sudheendra@gmail. com)
 
 </div>
 
