@@ -1,118 +1,53 @@
-<div align="center">
-  
-# 👋 Hi, I'm Sriniketh Sudheendra
+## Systems profile
 
-### 🚀 Full-Stack Developer | BCA Student | Problem Solver
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=sriniketh-cp&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81572169%3Fu%3D0450e8c961c9f91d94b8ff4a8ba2c5771bc235be%26v%3D4" alt="sriniketh-cp hero visual" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3d--portfoliosr. netlify.app-blue?style=flat&logo=google-chrome)](https://3d-portfoliosr.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-sriniketh--sudheendra-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sriniketh-sudheendra-9567441a6)
-[![Email](https://img.shields.io/badge/-sriniketh.sudheendra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sriniketh.sudheendra@gmail. com)
+**Sriniketh S** · Frontend or full-stack engineer
 
-</div>
+## Runtime notes
 
----
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 23
+COMMUNITY   = 2 followers</code></pre>
 
-## 💫 About Me
+I am Sriniketh Sudheendra a student at Christ university  pursing the bca course in the final year. i have work experience in kaha pvt ltd as an app developer
 
-BCA student at Christ University with hands-on experience in full-stack development and a passion for building impactful web applications. Currently working as an App Developer at Kaha Pvt Ltd, where I design and deploy scalable solutions. 
+## Service toolkit
 
-- 🔭 Currently working on **enterprise web applications** and **AI-integrated projects**
-- 🌱 Learning **advanced React patterns**, **microservices architecture**, and **cloud deployment**
-- 💼 Open to **internships** and **junior developer roles**
-- 📍 Based in Bangalore, India
+<p><code>sriniketh-cp@github:~$ toolbox --list</code></p>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=sriniketh-cp&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81572169%3Fu%3D0450e8c961c9f91d94b8ff4a8ba2c5771bc235be%26v%3D4" alt="sriniketh-cp stack visual" />
+</p>
 
-## 🛠️ Tech Stack
+## System signals
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<table>
+<tr><td align="center"><b>23</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>187</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933? style=flat&logo=node. js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## Reliable work
 
-### Tools & Cloud
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+- [RentGraud-SAAS](https://github.com/sriniketh-cp/RentGraud-SAAS) — JavaScript · 1 stars
+- [Regular-Lab-Exercise-6-streamlit-domain-dashborad](https://github.com/sriniketh-cp/Regular-Lab-Exercise-6-streamlit-domain-dashborad) — Python · 0 stars
+- [Leetcode-Problems](https://github.com/sriniketh-cp/Leetcode-Problems) — open source · 0 stars
+- [Promptwars-hackathon](https://github.com/sriniketh-cp/Promptwars-hackathon) — TypeScript · 0 stars
+- [python-backend-for-algotrace](https://github.com/sriniketh-cp/python-backend-for-algotrace) — Python · 0 stars
+- [algotrace-ai-fronted-and-api-integration](https://github.com/sriniketh-cp/algotrace-ai-fronted-and-api-integration) — JavaScript · 0 stars
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sriniketh-cp&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81572169%3Fu%3D0450e8c961c9f91d94b8ff4a8ba2c5771bc235be%26v%3D4" alt="sriniketh-cp heatmap visual" />
+</p>
 
-## 🎯 Featured Projects
+## Open a channel
 
-### [📊 MyCaptain Analytics Platform](https://github.com/sriniketh-cp/mycaptain-project)
-Full-stack analytics dashboard for tracking learning progress with interactive visualizations
-- **Tech:** React, Python, Chart.js, MongoDB
-- **Features:** Real-time data sync, role-based access, responsive design
-- **Impact:** Improved student engagement tracking by 40%
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=sriniketh-cp&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81572169%3Fu%3D0450e8c961c9f91d94b8ff4a8ba2c5771bc235be%26v%3D4" alt="sriniketh-cp social visual" />
+</p>
 
-### [🤖 AI Data Structure Solver](https://github.com/sriniketh-cp/hackathon)
-ML-powered tool that solves complex DSA problems with step-by-step explanations
-- **Tech:** Python, TensorFlow, FastAPI, React
-- **Features:** Natural language processing, code generation, visualization
-- **Achievement:** Top 10 finish in university hackathon
+<a href="https://github.com/sriniketh-cp">GitHub</a> · <a href="https://3d-portfoliosr.netlify.app/">Website</a>
 
-### [🌐 3D Interactive Portfolio](https://github.com/sriniketh-cp/3d-protfolio)
-Immersive developer portfolio with Three.js animations and smooth interactions
-- **Tech:** React, Three.js, GSAP, Tailwind CSS
-- **Features:** 3D models, scroll animations, mobile-responsive
-- **Live:** [3d-portfoliosr.netlify. app](https://3d-portfoliosr.netlify.app/)
-
-### [📱 Magisk WSA Integrator](https://github.com/sriniketh-cp/MagiskOnWSALocal)
-Automated tool for integrating Magisk with Windows Subsystem for Android
-- **Tech:** Shell scripting, PowerShell, Python
-- **Impact:** 500+ stars on original fork, simplifies complex setup process
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriniketh-cp&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriniketh-cp&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=sriniketh-cp&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- ⭐ **500+ GitHub stars** across projects
-- 🥈 **Top 10 Hackathon** finish - Christ University Tech Fest 2024
-- 💼 **Professional Experience** - App Developer at Kaha Pvt Ltd
-- 📜 **Certified** - React Advanced Patterns, AWS Cloud Practitioner
-
----
-
-## 📬 Let's Connect
-
-I'm always interested in collaborating on innovative projects or discussing technology! 
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriniketh-sudheendra-9567441a6)
-- 🌐 [Portfolio](https://3d-portfoliosr.netlify.app/)
-- 📧 [sriniketh.sudheendra@gmail.com](mailto:sriniketh.sudheendra@gmail.com)
-- 📍 Bangalore, Karnataka, India
-
----
-
-<div align="center">
-  
-### 💡 "Building the future, one commit at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=sriniketh-cp&color=brightgreen)
-
-</div>
+<p align="center"><sub>Sriniketh S · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
